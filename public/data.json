@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/SXRcTzMk/Pix-Verse-Image-Effect-prompt-Winter-Coat-Fitti.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo to protect against dryness and cracking.",
+    "image": "https://i.ibb.co.com/Qv3hcv9s/Pix-Verse-Image-Effect-prompt-Winter-Grooming-1.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Bed & Blanket Rental",
+    "providerName": "SnuggleTails Care",
+    "providerEmail": "support@snuggletails.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Rent cozy heated beds and blankets to ensure your pets stay warm and relaxed during cold nights.",
+    "image": "https://i.ibb.co.com/HL11rTZq/Pix-Verse-Image-Effect-prompt-Heated-Bed-Blan.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Nutritional Winter Meal Plan",
+    "providerName": "HealthyPaws Nutrition",
+    "providerEmail": "contact@healthypaws.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Customized winter meal plans designed by pet nutritionists to boost immunity and maintain energy during the season.",
+    "image": "https://i.ibb.co.com/xqv3cdG1/Pix-Verse-Image-Effect-prompt-Nutritional-Winte.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Indoor Play & Fitness Session",
+    "providerName": "FurFit Center",
+    "providerEmail": "info@furfitcenter.com",
+    "price": 22,
+    "rating": 4.6,
+    "slotsAvailable": 7,
+    "description": "Fun indoor activities and light exercises to keep your pet active and happy when it's too cold outside.",
+    "image": "https://i.ibb.co.com/7tZQy1ft/Pix-Verse-Image-Effect-prompt-Indoor-Play-Fit.jpg",
+    "category": "Activity"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Health Checkup & Vaccination",
+    "providerName": "PetShield Clinic",
+    "providerEmail": "care@petshield.com",
+    "price": 35,
+    "rating": 5.0,
+    "slotsAvailable": 4,
+    "description": "Comprehensive health checkups and essential winter vaccinations to ensure your pet stays safe and healthy.",
+    "image": "https://i.ibb.co.com/V0S4c5kk/Pix-Verse-Image-Effect-prompt-Winter-Health-Che.jpg",
+    "category": "Healthcare"
+  }
+]

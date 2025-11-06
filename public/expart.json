@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Dr. Bruce Bauersfeld, DVM",
+    "title": "Veterinarian",
+    "location": "Orange Olive (Fridays only)",
+    "specialty": "Big dogs, Bernese Mountain Dogs",
+    "clinic": "Dover Shores Veterinary Hospital",
+    "awards": ["Distinguished Alumni of the Year - Ohio State University"],
+    "philosophy": "Fear-free veterinary experience, personalized care for each pet",
+    "notes": "Helps worried pet owners feel confident. Check out his YouTube channel.",
+    "availability": "Fridays only",
+    "approach": "Educates pet parents, treats each pet as unique, partners with owners",
+    "image": "https://images.squarespace-cdn.com/content/v1/661ef24c30713e340f40b064/3aa5d362-a517-47db-a114-293270991ac5/IMG_1025JB.jpeg?format=750w"
+  },
+  {
+    "name": "Dr. Maya Thompson, DVM",
+    "title": "Veterinarian",
+    "location": "Blue Ridge Animal Clinic",
+    "specialty": "Senior dogs, Golden Retrievers",
+    "clinic": "Blue Ridge Animal Clinic",
+    "awards": ["Veterinary Excellence Award - University of Georgia"],
+    "philosophy": "Gentle care for aging pets, holistic wellness",
+    "notes": "Known for her calming presence and senior pet care workshops.",
+    "availability": "Monday to Thursday",
+    "approach": "Focuses on comfort, mobility, and emotional well-being for older pets",
+    "image": "https://images.squarespace-cdn.com/content/v1/661ef24c30713e340f40b064/452f4e10-dc76-45d5-aef5-f3a6e307bca2/Magic-Berners-Best-Team-in-Show-Small.jpg?format=1000w"
+  },
+  {
+    "name": "Dr. Javier Morales, DVM",
+    "title": "Veterinarian",
+    "location": "Sunset Hills Pet Center",
+    "specialty": "Exotic pets, French Bulldogs",
+    "clinic": "Sunset Hills Pet Center",
+    "awards": ["Innovator in Exotic Pet Medicine - UC Davis"],
+    "philosophy": "Empathy-driven care, advanced diagnostics",
+    "notes": "Hosts a podcast on rare pet conditions and treatment breakthroughs.",
+    "availability": "Weekends and evenings",
+    "approach": "Uses cutting-edge tools and builds trust with pet families",
+    "image": "https://images.squarespace-cdn.com/content/v1/661ef24c30713e340f40b064/d2e390c3-7b2a-41fe-b465-38144a5795b7/IMG_1094GM.jpeg?format=750w"
+  }
+]
