@@ -11,7 +11,7 @@ const MeetExpart = () => {
             <h1 className='text-4xl font-extrabold text-yellow-500 text-center mt-15'>Our Veterinarians and Care Team</h1>
             <div className='  flex-1 md:flex-2 lg:flex gap-5 w-11/12 mx-auto mt-20 pb-15'>
                 {
-                    data.map(data => (<div className='text-center border border-red-200 mx-auto my-auto p-2 rounded'>
+                    data.map(data => (<div key={data.name} className='text-center text-black border border-red-200 mx-auto my-auto p-2 rounded'>
                         <img className='h-[400px] mx-auto rounded' src={data.image} alt="" />
                         <h2 className='font-semibold my-2'>Name: {data.name}</h2>
                         <h3>title: {data.title}</h3>
