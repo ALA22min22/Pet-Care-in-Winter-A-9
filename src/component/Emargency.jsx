@@ -3,7 +3,7 @@ import { FaArrowRightLong } from 'react-icons/fa6';
 
 const Emargency = () => {
     return (
-        <div className='grid grid-cols-4 gap-2 rounded-full py-6 bg-white'>
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 rounded-full py-6 bg-white'>
             <div className=' bg-white p-5 rounded shadow-xl/30 shadow-cyan-500/50'>
                 <img className='mb-5 mt-3' src={"https://i.ibb.co.com/prstMT90/icons8-call-doctor-64.png"} alt="" />
                 <h3 className=' text-[20px] font-semibold'>24/7 Emergency Help </h3>

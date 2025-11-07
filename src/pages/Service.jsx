@@ -23,7 +23,8 @@ const Service = () => {
     return (
         <div>
             <section className='w-11/12 mx-auto my-20'>
-                <div className='grid grid-cols-2  gap-6 '>
+            <h3 className='text-3xl font-bold text-center mb-8'>Our Services Proper Details And Book The Service</h3>
+                <div className='grid  grid-cols-1 md:grid-cols-1 lg:grid-cols-2  gap-6 '>
                     {
                         data.map(data => <ServicesCard key={data.serviceId} data={data}></ServicesCard>)
                     }
