@@ -22,7 +22,7 @@ const HomeCard = ({ dynamicData }) => {
                 </div>
                 <div className='my-10  place-self-center-safe '>
                     <NavLink to={'/tips'}><button className='border border-red-300 py-2 mb-5 rounded-4xl px-10 text-purple-500 flex gap-5 items-center '><span>Winter Care Tips for Pets</span> <FaArrowRightLong /> </button></NavLink> 
-                    <NavLink to={'/expart'}><button className='border  py-2 border-red-300 rounded-4xl px-10 text-purple-500 flex gap-5 items-center'><span>Meet Our Expert Vets</span> <FaArrowRightLong /> </button></NavLink>
+                    <NavLink to={'/expart'}><button className='border ml-3 py-2 border-red-300 rounded-4xl px-10 text-purple-500 flex gap-5 items-center'><span>Meet Our Expert Vets</span> <FaArrowRightLong /> </button></NavLink>
                 </div>
 
             </div>
