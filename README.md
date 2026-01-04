@@ -49,16 +49,6 @@ The following npm packages were essential in building this project:
 
 ---
 
-## 📦 Key Dependencies
-* `firebase`: For authentication and hosting.
-* `react-router-dom`: For SPA navigation and private routes.
-* `swiper`: For the hero slider.
-* `aos`: For scroll animations.
-* `react-hot-toast`: For interactive notifications.
-* `react-icons`: For password toggle and social icons.
-
----
-
 ## 💻 Step-by-Step Guide to Run Locally
 
 Follow these steps to set up the project on your local machine:
