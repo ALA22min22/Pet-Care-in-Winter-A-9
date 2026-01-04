@@ -54,12 +54,12 @@ Follow these steps to set up the project on your local machine:
 
 **4. Set up Environment Variables:**
 Create a `.env.local` file in the root folder and add your Firebase keys:
-> VITE_apiKey=your_firebase_api_key
-> VITE_authDomain=your_firebase_auth_domain
-> VITE_projectId=your_firebase_project_id
-> VITE_storageBucket=your_firebase_storage_bucket
-> VITE_messagingSenderId=your_firebase_messaging_sender_id
-> VITE_appId=your_firebase_app_id
+> VITE_apiKey=your_firebase_api_key <br>
+> VITE_authDomain=your_firebase_auth_domain <br>
+> VITE_projectId=your_firebase_project_id  <br>
+> VITE_storageBucket=your_firebase_storage_bucket  <br>
+> VITE_messagingSenderId=your_firebase_messaging_sender_id   <br>
+> VITE_appId=your_firebase_app_id   <br>
 
 **5. Run the development server:**
 > npm run dev
